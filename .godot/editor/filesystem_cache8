@@ -1,12 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
 ::res://::1741468944
-::res://assets/::1741471539
+::res://assets/::1741472257
 Brainstorm.txt::TextFile::-1::1741399172::0::1::::<><>::
-character1concept.png::CompressedTexture2D::8387217974352424447::1741455388::1741455389::1::::<><>::
-ideaboard.png::CompressedTexture2D::6498194260150098287::1741471282::1741406689::1::::<><>::
+ideaboard.png::CompressedTexture2D::6498194260150098287::1741476909::1741476915::1::::<><>::
 mainplayerss.png::CompressedTexture2D::6107905230446832910::1741471551::1741471552::1::::<><>::
-::res://scenes/::1741471541
-main.tscn::PackedScene::5755136017655808752::1741471541::0::1::::<><>::uid://c32l2umry45hs::::res://scenes/player.tscn
-player.tscn::PackedScene::6794584361776891008::1741471541::0::1::::<><>::res://scripts/player_movement.gd<>uid://ctaykovi55u2y::::res://assets/mainplayerss.png
+::res://scenes/::1741471616
+main.tscn::PackedScene::5755136017655808752::1741471616::0::1::::<><>::uid://c32l2umry45hs::::res://scenes/player.tscn
+player.tscn::PackedScene::6794584361776891008::1741471616::0::1::::<><>::res://scripts/player_movement.gd<>uid://ctaykovi55u2y::::res://assets/mainplayerss.png
 ::res://scripts/::1741471282
 player_movement.gd::GDScript::-1::1741469583::0::1::::<>CharacterBody2D<>::
