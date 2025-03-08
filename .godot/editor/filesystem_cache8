@@ -1,9 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741406688
+::res://::1741455364
+::res://assets/::1741455364
 Brainstorm.txt::TextFile::-1::1741399172::0::1::::<><>::
-::res://assets/::1741408452
-character1concept.png::CompressedTexture2D::8387217974352424447::1741408452::1741408454::1::::<><>::
+character1concept.png::CompressedTexture2D::8387217974352424447::1741455388::1741455389::1::::<><>::
 ideaboard.png::CompressedTexture2D::6498194260150098287::1741405524::1741406689::1::::<><>::
-::res://scenes/::1741406855
+::res://scenes/::1741455334
 main.tscn::PackedScene::5755136017655808752::1741406855::0::1::::<><>::
+player.tscn::PackedScene::6794584361776891008::1741455334::0::1::::<><>::
 ::res://scripts/::1741399578
