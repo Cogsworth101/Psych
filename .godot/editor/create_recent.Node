@@ -1,3 +1,5 @@
+TextureRect
+AspectRatioContainer
 Camera2D
 AnimatedSprite2D
 CollisionShape2D
