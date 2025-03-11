@@ -1,0 +1,33 @@
+Elemental Fusion fast paced multiplayer game
+Fire Water Air Earth Electric
+- Essentially there are 2 teams of 4, the games are incredibly fast paced.
+- There will most likely be 1 of each element type, leading players to specialize their specific element, but forcing them to branch when other players select it first.
+Main mechanics are elemental fusion like the TBD title above.
+
+def key - curl into ball
+atk key - use an attack or "attack" teammate
+
+Team combo attacks/defenses consume both teammates, inputs are averaged for movement, sometimes slowed.
+
+Fire a + Earth d = Lava (hurts others)
+Earth a + Fire d = Bomb (can roll)
+Mud + Fire a = Pot
+Lava + Water a = Obsidian
+Fire a + Bomb = Ignite Bomb (2 second countdown)
+Earth n + Air a = Dust Storm (-vis for enemies)
+Earth d + Water a = Mud (+hp to team that cast it)
+
+PVP:
+- Water a -> Fire_both = -hp
+- Earth a -> any_enemy = -hp
+- Wind a -> any_enemy (or combo !Bomb) = pushes entity
+- Wind a + enemy_bomb = Defuse Bomb
+- Earth d+a -> any_teammate = +def
+- Air d+a -> Fire_teammate = +speed -def
+- Water d+a -> any_teammate = +hp
+Bomb_lit_enemy -> Obsidian_team = Fire_team, Water_team, Earth_team (seperates, -hp)
+
+
+Supers:
+Earth + Water (Mud) + Fire (Pot) + Wind = Shatter pot (Super def, all 4) gives 8 buffs anybody can pick up, +hp, +speed, +def
+Fire + Earth (Lava) + Water (Obsidian) + Air = Storm (Super atk, all 4)
