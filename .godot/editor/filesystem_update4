@@ -1,4 +1,4 @@
-res://scenes/player.tscn
-res://scenes/player_movement.gd
+res://scenes/MainMenu.tscn
 res://scenes/main.tscn
-res://scripts/player_movement.gd
+res://scenes/player.tscn
+res://scenes/MainMenu.gd
